@@ -1,8 +1,6 @@
 #define STRICT
 #define WIN32_LEAN_AND_MEAN
 
-//#define DISABLE_LOGGING
-
 #include <windows.h>
 #include "proxy.h"
 #include "util.h"
